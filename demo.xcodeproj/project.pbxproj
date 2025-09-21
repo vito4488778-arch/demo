@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		EADD02592E6D7AD900A0913C /* 太空音樂背景.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EADD02582E6D7AD800A0913C /* 太空音樂背景.mp3 */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		EADD02442E6A82D700A0913C /* demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EADD02582E6D7AD800A0913C /* 太空音樂背景.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "太空音樂背景.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				EADD02462E6A82D700A0913C /* demo */,
 				EADD02452E6A82D700A0913C /* Products */,
+				EADD02582E6D7AD800A0913C /* 太空音樂背景.mp3 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EADD02592E6D7AD900A0913C /* 太空音樂背景.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
